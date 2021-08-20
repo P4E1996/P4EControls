@@ -1,8 +1,0 @@
-C:\Users\moham\Desktop\RJControls-main\RJControls-main\CustomControls\obj\Debug\P4ECustomControls.P4EControls.P4ETextBox.resources
-C:\Users\moham\Desktop\RJControls-main\RJControls-main\CustomControls\obj\Debug\P4ECustomControls.csproj.GenerateResource.cache
-C:\Users\moham\Desktop\RJControls-main\RJControls-main\CustomControls\obj\Debug\P4ECustomControls.csproj.CoreCompileInputs.cache
-C:\Users\moham\Desktop\RJControls-main\RJControls-main\CustomControls\bin\Debug\P4ECustomControls.dll
-C:\Users\moham\Desktop\RJControls-main\RJControls-main\CustomControls\bin\Debug\P4ECustomControls.pdb
-C:\Users\moham\Desktop\RJControls-main\RJControls-main\CustomControls\obj\Debug\P4ECustomControls.Properties.Resources.resources
-C:\Users\moham\Desktop\RJControls-main\RJControls-main\CustomControls\obj\Debug\P4ECustomControls.dll
-C:\Users\moham\Desktop\RJControls-main\RJControls-main\CustomControls\obj\Debug\P4ECustomControls.pdb
