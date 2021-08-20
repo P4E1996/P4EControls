@@ -1,8 +1,0 @@
-C:\Users\moham\source\repos\CirclePictureBox\CirclePictureBox\bin\Debug\CirclePictureBox.dll
-C:\Users\moham\source\repos\CirclePictureBox\CirclePictureBox\bin\Debug\CirclePictureBox.pdb
-C:\Users\moham\source\repos\CirclePictureBox\CirclePictureBox\obj\Debug\CirclePictureBox.csproj.AssemblyReference.cache
-C:\Users\moham\source\repos\CirclePictureBox\CirclePictureBox\obj\Debug\CirclePictureBox.Form1.resources
-C:\Users\moham\source\repos\CirclePictureBox\CirclePictureBox\obj\Debug\CirclePictureBox.csproj.GenerateResource.cache
-C:\Users\moham\source\repos\CirclePictureBox\CirclePictureBox\obj\Debug\CirclePictureBox.csproj.CoreCompileInputs.cache
-C:\Users\moham\source\repos\CirclePictureBox\CirclePictureBox\obj\Debug\CirclePictureBox.dll
-C:\Users\moham\source\repos\CirclePictureBox\CirclePictureBox\obj\Debug\CirclePictureBox.pdb
